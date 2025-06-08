@@ -1,0 +1,14 @@
+transformers==4.39.3
+sentencepiece
+torch>=1.12
+datasets
+scikit-learn
+pandas
+numpy
+tqdm
+seqeval
+accelerate
+fairseq
+awesome-align
+sacrebleu
+rouge-score
